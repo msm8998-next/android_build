@@ -305,6 +305,7 @@ python_defaults {
         "brotli",
         "bsdiff",
         "deapexer",
+        "imgdiff",
         "lz4",
         "mkbootfs",
         "signapk",
